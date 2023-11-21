@@ -7,7 +7,7 @@
 
 ### Detecting Ships using Satellite Images with Deep Learning
 
-![image](https://github.com/boghtml/Test_Exercise_Ship_Segmentation-Final-/assets/119760440/2e76c762-0b49-42f3-a734-5932a88b6ace)
+![image](https://github.com/boghtml/Test_Exercise_Ship_Segmentation-Final-/assets/119760440/fb264756-fa44-4987-99e5-d3d778e8b53c)
 
 ---
 
@@ -31,10 +31,9 @@
   - **EarlyStopping:** Stops training if a certain metric does not improve within a certain number of "patience=15" epochs.
 
 ## Dataset & Aim<a class="anchor"  id="h1"></a>
-    
-![image](https://github.com/boghtml/Test_Exercise_Ship_Segmentation-Final-/assets/119760440/23e4e27b-19f9-4571-97ef-a5f2e7311962)
 
-       
+![image](https://github.com/boghtml/Test_Exercise_Ship_Segmentation-Final-/assets/119760440/72dea72c-b412-4206-a561-114f34f17a46)
+    
 - We will be dealing with this [dataset](https://www.kaggle.com/competitions/airbus-ship-detection/data).
 - Search "Airbus Ship Detection Dataset" and add it to this kernel.
 - It consists of train and test image folders along with sample_submission and train_ship_segmentation csv files.
@@ -45,7 +44,7 @@
 
 - These are some of the most common applications of machine learning in computer vision.
 
-![image](https://github.com/boghtml/Test_Exercise_Ship_Segmentation-Final-/assets/119760440/9c4d669a-399d-42c0-b6b1-3bd8b72b49c0)
+![image](https://github.com/boghtml/Test_Exercise_Ship_Segmentation-Final-/assets/119760440/01d02f8e-6a2b-4ef6-8fbf-5820a18ad2e0)
 
 * **Image Classificaton:-** Determines whether a certain type of object is present in an image or not.    
 * **Object Detection:-** Object detection takes image classification one step further and provides the bounding box where detected objects are located.        
@@ -75,7 +74,7 @@
 ​
 <img src="https://miro.medium.com/max/720/1*f7YOaE4TWubwaFF7Z1fzNw.png" width = 80%>
 ​
-![image](https://github.com/boghtml/Test_Exercise_Ship_Segmentation-Final-/assets/119760440/692b7b89-92a7-4ff6-8538-669925ac0d1f)
+![image](https://github.com/boghtml/Test_Exercise_Ship_Segmentation-Final-/assets/119760440/1f4f510e-f46a-4cfc-9c42-ffd8f0ef62b8)
 
 - The U-NET is named after the configuration of its architecture.
 - Each blue box corresponds to a feature map with multiple channels.
