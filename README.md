@@ -89,4 +89,4 @@
 ​
 <img src = "https://i.stack.imgur.com/o5TBk.png" width = 45%>       
 ​
-![image](https://github.com/boghtml/Test_Exercise_Ship_Segmentation-Final-/assets/119760440/29dd83ad-db34-47d3-ae2f-844aeac201a5)
+![image](https://github.com/boghtml/Test_Exercise_Ship_Segmentation-Final-/assets/119760440/053c715c-f0b3-4f4f-ab05-5ba3d6d52086)
