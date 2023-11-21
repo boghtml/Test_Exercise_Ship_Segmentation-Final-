@@ -61,7 +61,7 @@
 
 - RLE is particularly effective when dealing with data sequences that exhibit prolonged stretches of identical values.
 
-![image](https://github.com/boghtml/Test_Exercise_Ship_Segmentation-Final-/assets/119760440/a53b9013-4ec0-43ec-bc48-04dd6646c992)
+![image](https://github.com/boghtml/Test_Exercise_Ship_Segmentation-Final-/assets/119760440/54d7df46-0d46-4a83-8714-50ec2ee5fca3)
 
 - However, if the data lacks extended sequences and is inherently intricate, the application of RLE may lead to suboptimal compression results.
 
